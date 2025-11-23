@@ -1,0 +1,7 @@
+{
+  "name": "CataLive Translator",
+  "description": "A real-time Catalan to English audio translator with PDF export capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
